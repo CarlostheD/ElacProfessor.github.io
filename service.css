@@ -1,0 +1,74 @@
+h1{
+    font-family:fantasy;
+    color: darkblue;
+    font-size: 45px;
+    text-align: center;
+    display:flex center;
+    justify-content: center;
+}
+h2{
+    font-family: cursive;
+    color: blue;
+    font-size: 30px;
+    border: 4px solid lightblue;
+    margin: 25px;
+    padding: 15px;
+    Display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+p{
+    font-weight:bold;
+    font-family:monospace;
+    font-size: 22px;
+    border: 3px solid black;
+    margin:auto;
+    padding: 20px;
+    Display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+body{
+    background-image: url('images/grass.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: gainsboro;
+    text-align:center;
+    align-content: center;
+}
+a{
+    font-size: 25px;
+}
+li{
+    font-size: 30px;
+    color:black;
+    border:1px dotted darkgreen;
+}
+header{
+    width: 100%;
+    border: 2px solid blue;
+    padding:25px;
+    margin: 20px;
+    Display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-content: center;
+}
+img{
+    border: 2px solid darkblue;
+    margin:30px;
+    padding: 10px;
+    
+}
+nav li{
+    display: inline;
+}
+.img mexicanflag {
+    float: left;
+}
+.img usflag{
+    float: right;
+}

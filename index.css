@@ -1,0 +1,38 @@
+body{
+    background-image: url('images/roostersfighitingpainting.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+a{
+    font-size:25px;
+    font-weight: bold;
+    font-family: cursive;
+    
+}
+h1{
+    font-weight: bold;
+    font-size: 45px;
+    color: red;
+    font-family: cursive;
+}
+h2{
+    font-weight:bold;
+    font-size: 40px;
+    color:red;
+    font-family: fantasy;
+}
+p{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+header{
+    padding: 20px;
+    margin: 10px;
+    display: flex center;
+    border: solid black 5px;
+    
+}

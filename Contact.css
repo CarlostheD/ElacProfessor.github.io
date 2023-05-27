@@ -1,0 +1,54 @@
+
+body{
+    background-image: url('images/contactodejose.PNG');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    color: red;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: serif;
+}
+a{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+h2{
+    color: darkred;
+    font-family: cursive;
+}
+table {
+    color: orange;
+    font-size: 30px;
+    justify-content: center;
+    
+}
+iframe { 
+    border: 5px solid black;
+    margin: 2px;
+    padding: 5px;
+    
+}
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 20px;
+    border: 1px solid black;
+}
+h2  {
+    font-size: 45px;
+    font-family: cursive;
+
+    
+}
+form{
+    text-align: center;
+    font-weight: bold;
+}
+button{
+    font-weight: bold;
+}
